@@ -1,0 +1,441 @@
+Data,Countries,Local,Industry Sector,Accident Level,Potential Accident Level,Genre,Employee ou Terceiro,Risco Critico
+01-01-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Pressed
+02-01-16 00:00,Country_02,Local_02,Mining,I,IV,Male,Employee,Pressurized Systems
+06-01-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party (Remote),Manual Tools
+08-01-16 00:00,Country_01,Local_04,Mining,I,I,Male,Third Party,Others
+10-01-16 00:00,Country_01,Local_04,Mining,IV,IV,Male,Third Party,Others
+12-01-16 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party (Remote),Pressurized Systems
+16-01-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Fall prevention (same level)
+17-01-16 00:00,Country_01,Local_04,Mining,I,III,Male,Third Party,Pressed
+19-01-16 00:00,Country_02,Local_02,Mining,I,IV,Male,Third Party (Remote),Others
+26-01-16 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Chemical substances
+28-01-16 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,Others
+30-01-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+01-02-16 00:00,Country_02,Local_05,Metals,I,I,Male,Employee,Liquid Metal
+02-02-16 00:00,Country_01,Local_01,Mining,IV,V,Male,Third Party,Electrical installation
+04-02-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Confined space
+04-02-16 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Liquid Metal
+06-02-16 00:00,Country_01,Local_04,Mining,III,IV,Male,Third Party,Others
+07-02-16 00:00,Country_01,Local_06,Metals,I,II,Female,Third Party,Others
+08-02-16 00:00,Country_01,Local_06,Metals,I,II,Male,Employee,Others
+21-02-16 00:00,Country_01,Local_06,Metals,I,III,Male,Employee,Others
+25-02-16 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Others
+09-02-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+10-02-16 00:00,Country_01,Local_03,Mining,II,IV,Male,Third Party,Others
+15-02-16 00:00,Country_02,Local_02,Mining,II,II,Male,Third Party (Remote),Others
+14-02-16 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Others
+15-02-16 00:00,Country_01,Local_06,Metals,I,II,Male,Employee,Manual Tools
+13-02-16 00:00,Country_01,Local_01,Mining,I,I,Male,Employee,Others
+15-02-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+16-02-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Others
+16-02-16 00:00,Country_02,Local_07,Mining,II,III,Male,Employee,Others
+17-02-16 00:00,Country_01,Local_03,Mining,I,II,Male,Employee,Others
+19-02-16 00:00,Country_01,Local_03,Mining,I,II,Male,Employee,Others
+21-02-16 00:00,Country_01,Local_01,Mining,III,IV,Male,Third Party,Others
+20-02-16 00:00,Country_01,Local_04,Mining,V,V,Male,Third Party,Others
+15-02-16 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Others
+18-02-16 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party (Remote),Pressed
+22-02-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+24-02-16 00:00,Country_02,Local_07,Mining,I,V,Male,Employee,Others
+24-02-16 00:00,Country_02,Local_07,Mining,I,V,Female,Third Party,Others
+24-02-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Others
+29-02-16 00:00,Country_02,Local_02,Mining,II,IV,Male,Employee,Others
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+26-02-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances
+27-02-16 00:00,Country_01,Local_01,Mining,I,III,Male,Third Party,Others
+02-03-16 00:00,Country_02,Local_08,Metals,I,III,Male,Employee,Pressed
+02-03-16 00:00,Country_01,Local_06,Metals,I,III,Male,Employee,Blocking and isolation of energies
+03-03-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+04-03-16 00:00,Country_01,Local_06,Metals,I,III,Male,Employee,Manual Tools
+05-03-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Others
+06-03-16 00:00,Country_01,Local_04,Mining,I,III,Male,Employee,Others
+06-03-16 00:00,Country_01,Local_03,Mining,III,IV,Male,Third Party (Remote),Others
+09-03-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Third Party,Suspended Loads
+11-03-16 00:00,Country_01,Local_03,Mining,III,V,Male,Third Party,Others
+11-03-16 00:00,Country_01,Local_03,Mining,I,V,Male,Third Party,Others
+13-03-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party (Remote),Others
+12-03-16 00:00,Country_02,Local_07,Mining,III,IV,Male,Employee,Others
+14-03-16 00:00,Country_01,Local_06,Metals,II,III,Male,Third Party (Remote),Chemical substances
+13-03-16 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,Others
+16-03-16 00:00,Country_01,Local_04,Mining,I,II,Male,Third Party,Others
+10-03-16 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Pressed
+17-03-16 00:00,Country_01,Local_01,Mining,I,II,Male,Third Party,Others
+16-03-16 00:00,Country_02,Local_08,Metals,II,II,Male,Employee,Manual Tools
+18-03-16 00:00,Country_01,Local_04,Mining,IV,IV,Male,Third Party,Others
+19-03-16 00:00,Country_01,Local_01,Mining,I,III,Male,Employee,Others
+14-03-16 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Chemical substances
+18-03-16 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Fall prevention (same level)
+18-03-16 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Chemical substances
+22-03-16 00:00,Country_01,Local_03,Mining,I,II,Male,Employee,Others
+22-03-16 00:00,Country_01,Local_01,Mining,IV,IV,Male,Third Party,Others
+25-03-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+30-03-16 00:00,Country_01,Local_04,Mining,II,IV,Male,Third Party,Others
+30-03-16 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,Others
+31-03-16 00:00,Country_01,Local_06,Metals,I,III,Male,Employee,Others
+31-03-16 00:00,Country_02,Local_08,Metals,I,III,Male,Third Party (Remote),Pressed
+01-04-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+03-04-16 00:00,Country_01,Local_01,Mining,III,V,Male,Third Party,Others
+02-04-16 00:00,Country_01,Local_01,Mining,I,III,Male,Employee,Others
+01-04-16 00:00,Country_01,Local_01,Mining,I,V,Male,Third Party (Remote),Others
+01-04-16 00:00,Country_01,Local_01,Mining,I,V,Male,Third Party (Remote),Others
+10-03-16 00:00,Country_03,Local_10,Others,II,II,Male,Third Party,Others
+24-03-16 00:00,Country_03,Local_10,Others,IV,IV,Male,Third Party,Poll
+22-03-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Others
+31-03-16 00:00,Country_01,Local_03,Mining,I,II,Male,Third Party,Others
+04-04-16 00:00,Country_02,Local_09,Metals,III,IV,Male,Employee,Manual Tools
+05-04-16 00:00,Country_01,Local_06,Metals,I,III,Male,Third Party,Fall prevention (same level)
+05-04-16 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party,Pressed
+07-04-16 00:00,Country_01,Local_03,Mining,I,II,Male,Third Party,Others
+08-04-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Others
+11-04-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+11-04-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Others
+14-04-16 00:00,Country_02,Local_08,Metals,I,III,Male,Employee,Pressurized Systems
+14-04-16 00:00,Country_01,Local_04,Mining,I,II,Male,Third Party,Others
+16-04-16 00:00,Country_01,Local_04,Mining,I,III,Male,Third Party,Others
+16-04-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+15-04-16 00:00,Country_01,Local_03,Mining,I,II,Male,Employee,Others
+17-04-16 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Cut
+18-04-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+21-04-16 00:00,Country_02,Local_02,Mining,I,V,Male,Employee,Others
+22-04-16 00:00,Country_01,Local_01,Mining,I,II,Male,Third Party,Others
+23-04-16 00:00,Country_01,Local_04,Mining,I,III,Male,Employee,Others
+22-04-16 00:00,Country_02,Local_05,Metals,II,IV,Male,Third Party,Pressurized Systems / Chemical Substances
+26-04-16 00:00,Country_02,Local_05,Metals,I,II,Female,Third Party,Cut
+28-04-16 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party (Remote),Chemical substances
+29-04-16 00:00,Country_01,Local_04,Mining,III,IV,Male,Third Party,Others
+30-04-16 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Pressed
+30-04-16 00:00,Country_01,Local_01,Mining,I,II,Male,Employee,Others
+30-04-16 00:00,Country_01,Local_03,Mining,IV,IV,Male,Third Party,Others
+01-05-16 00:00,Country_01,Local_04,Mining,I,IV,Male,Third Party,Others
+02-05-16 00:00,Country_02,Local_05,Metals,I,IV,Female,Third Party (Remote),Chemical substances
+04-05-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Manual Tools
+03-05-16 00:00,Country_01,Local_04,Mining,II,IV,Male,Third Party,Others
+04-05-16 00:00,Country_01,Local_04,Mining,I,III,Male,Employee,Others
+04-05-16 00:00,Country_02,Local_05,Metals,I,III,Female,Third Party (Remote),Chemical substances
+04-05-16 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party (Remote),Chemical substances
+05-05-16 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party,Manual Tools
+05-05-16 00:00,Country_02,Local_08,Metals,I,II,Male,Third Party (Remote),Manual Tools
+11-05-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+12-05-16 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party (Remote),Chemical substances
+11-05-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+14-05-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+17-05-16 00:00,Country_01,Local_11,Others,I,II,Male,Employee,Others
+19-05-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party (Remote),Others
+18-05-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Others
+22-05-16 00:00,Country_02,Local_08,Metals,I,III,Male,Employee,Blocking and isolation of energies
+20-05-16 00:00,Country_01,Local_06,Metals,I,I,Male,Third Party,Fall prevention (same level)
+22-05-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+24-05-16 00:00,Country_03,Local_10,Others,IV,IV,Male,Third Party,Fall
+12-05-16 00:00,Country_01,Local_04,Mining,I,III,Male,Employee,Others
+25-05-16 00:00,Country_01,Local_04,Mining,II,III,Male,Employee,Others
+27-05-16 00:00,Country_02,Local_02,Mining,I,V,Male,Employee,Others
+25-05-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+26-05-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+26-05-16 00:00,Country_03,Local_10,Others,I,I,Male,Employee,Others
+01-06-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Cut
+02-06-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Cut
+03-06-16 00:00,Country_01,Local_01,Mining,I,II,Male,Third Party,Others
+04-06-16 00:00,Country_01,Local_04,Mining,V,V,Male,Third Party,Others
+03-06-16 00:00,Country_03,Local_10,Others,II,II,Male,Third Party,Others
+05-06-16 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,Others
+05-06-16 00:00,Country_01,Local_06,Metals,I,I,Male,Employee,Fall prevention
+08-06-16 00:00,Country_01,Local_04,Mining,I,III,Male,Third Party,Others
+07-06-16 00:00,Country_01,Local_01,Mining,I,I,Male,Employee,Others
+07-06-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+08-06-16 00:00,Country_01,Local_06,Metals,IV,IV,Male,Employee,Fall prevention (same level)
+08-06-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+08-06-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Others
+10-06-16 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party (Remote),Manual Tools
+13-06-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Others
+16-06-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+16-06-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+16-06-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+16-06-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+16-06-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+18-06-16 00:00,Country_03,Local_10,Others,I,I,Male,Employee,Bees
+18-06-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+17-06-16 00:00,Country_02,Local_08,Metals,IV,V,Male,Employee,"
+Not applicable"
+17-06-16 00:00,Country_02,Local_08,Metals,IV,V,Male,Employee,Not applicable
+17-06-16 00:00,Country_02,Local_08,Metals,V,V,Male,Employee,Not applicable
+19-06-16 00:00,Country_01,Local_03,Mining,IV,IV,Male,Third Party,Others
+21-06-16 00:00,Country_01,Local_01,Mining,I,III,Male,Third Party,Others
+22-06-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party (Remote),Others
+23-06-16 00:00,Country_02,Local_08,Metals,I,II,Male,Employee,Manual Tools
+24-06-16 00:00,Country_01,Local_01,Mining,I,III,Male,Third Party,Others
+24-06-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+29-06-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Others
+02-07-16 00:00,Country_01,Local_03,Mining,V,V,Male,Third Party,Others
+04-07-16 00:00,Country_01,Local_06,Metals,III,IV,Male,Third Party,Pressed
+24-06-16 00:00,Country_01,Local_03,Mining,I,II,Male,Third Party,Others
+08-07-16 00:00,Country_01,Local_01,Mining,I,II,Male,Employee,Others
+07-07-16 00:00,Country_01,Local_03,Mining,IV,V,Male,Third Party,Others
+07-07-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+08-07-16 00:00,Country_01,Local_06,Metals,III,IV,Male,Third Party,Manual Tools
+09-07-16 00:00,Country_03,Local_10,Others,III,IV,Male,Third Party,Others
+10-07-16 00:00,Country_01,Local_04,Mining,IV,IV,Male,Third Party,Others
+11-07-16 00:00,Country_02,Local_05,Metals,III,IV,Male,Third Party (Remote),Suspended Loads
+14-07-16 00:00,Country_01,Local_03,Mining,I,II,Male,Employee,Others
+15-07-16 00:00,Country_02,Local_05,Metals,I,II,Female,Employee,Chemical substances
+16-07-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+18-07-16 00:00,Country_01,Local_06,Metals,I,III,Male,Third Party,Fall prevention (same level)
+20-07-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Chemical substances
+21-07-16 00:00,Country_02,Local_12,Others,I,II,Female,Employee,Traffic
+23-07-16 00:00,Country_02,Local_08,Metals,I,II,Male,Third Party (Remote),Pressurized Systems
+27-07-16 00:00,Country_01,Local_03,Mining,II,IV,Male,Employee,Others
+29-07-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Others
+30-07-16 00:00,Country_02,Local_07,Mining,I,II,Male,Employee,Others
+02-08-16 00:00,Country_02,Local_02,Mining,I,III,Male,Third Party (Remote),Others
+01-08-16 00:00,Country_02,Local_05,Metals,II,III,Female,Third Party,Manual Tools
+02-08-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Bees
+01-08-16 00:00,Country_01,Local_04,Mining,II,III,Male,Third Party,Others
+04-08-16 00:00,Country_02,Local_08,Metals,I,II,Male,Employee,Cut
+11-08-16 00:00,Country_02,Local_02,Mining,IV,IV,Male,Third Party (Remote),Others
+11-08-16 00:00,Country_02,Local_12,Others,I,IV,Female,Employee,Others
+12-08-16 00:00,Country_01,Local_03,Mining,III,IV,Male,Employee,Others
+14-08-16 00:00,Country_01,Local_01,Mining,III,IV,Male,Third Party,Others
+14-08-16 00:00,Country_02,Local_08,Metals,I,III,Male,Employee,Projection
+15-08-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+18-08-16 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,Others
+19-08-16 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,Others
+22-08-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Pressed
+24-08-16 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Cut
+25-08-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Others
+24-08-16 00:00,Country_01,Local_01,Mining,I,II,Male,Employee,Others
+29-08-16 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Chemical substances
+27-08-16 00:00,Country_01,Local_06,Metals,I,II,Male,Employee,Pressurized Systems / Chemical Substances
+30-08-16 00:00,Country_02,Local_08,Metals,II,II,Female,Third Party (Remote),Others
+30-08-16 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Others
+01-09-16 00:00,Country_02,Local_05,Metals,II,IV,Male,Third Party (Remote),Manual Tools
+02-09-16 00:00,Country_01,Local_03,Mining,I,I,Male,Third Party,Others
+04-09-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+03-09-16 00:00,Country_01,Local_04,Mining,III,IV,Male,Employee,Others
+04-09-16 00:00,Country_01,Local_06,Metals,IV,IV,Male,Employee,Suspended Loads
+06-09-16 00:00,Country_02,Local_02,Mining,I,II,Male,Employee,Others
+05-09-16 00:00,Country_02,Local_05,Metals,I,II,Female,Employee,Venomous Animals
+06-09-16 00:00,Country_02,Local_07,Mining,I,II,Male,Employee,Others
+13-09-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+12-09-16 00:00,Country_01,Local_11,Others,III,IV,Female,Employee,Others
+13-09-16 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Suspended Loads
+15-09-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Others
+17-09-16 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Pressed
+16-09-16 00:00,Country_02,Local_05,Metals,II,IV,Male,Employee,Pressurized Systems
+20-09-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Fall
+20-09-16 00:00,Country_02,Local_05,Metals,I,II,Male,Third Party (Remote),Blocking and isolation of energies
+20-09-16 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Others
+21-09-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+21-09-16 00:00,Country_02,Local_05,Metals,II,III,Male,Third Party,Manual Tools
+22-09-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Others
+22-09-16 00:00,Country_01,Local_06,Metals,I,III,Male,Employee,Others
+27-09-16 00:00,Country_01,Local_06,Metals,I,II,Female,Third Party,Pressurized Systems
+29-09-16 00:00,Country_01,Local_04,Mining,I,II,Male,Third Party,Others
+30-09-16 00:00,Country_01,Local_04,Mining,I,I,Male,Employee,Others
+01-10-16 00:00,Country_01,Local_04,Mining,II,III,Male,Third Party,Others
+03-10-16 00:00,Country_01,Local_04,Mining,I,II,Male,Third Party,Others
+03-10-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Pressed
+03-10-16 00:00,Country_02,Local_08,Metals,I,II,Male,Employee,Pressed
+03-10-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+04-10-16 00:00,Country_03,Local_10,Others,III,III,Male,Employee,Others
+08-10-16 00:00,Country_01,Local_04,Mining,II,II,Male,Third Party,Others
+10-10-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party (Remote),Others
+10-10-16 00:00,Country_01,Local_04,Mining,III,IV,Male,Employee,Others
+11-10-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Chemical substances
+13-10-16 00:00,Country_02,Local_02,Mining,II,II,Male,Third Party (Remote),Others
+13-10-16 00:00,Country_01,Local_03,Mining,III,IV,Male,Employee,Others
+18-10-16 00:00,Country_01,Local_03,Mining,IV,IV,Male,Third Party,Others
+18-10-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+20-10-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Pressurized Systems
+23-10-16 00:00,Country_02,Local_02,Mining,II,IV,Male,Employee,Others
+24-10-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+26-10-16 00:00,Country_01,Local_01,Mining,III,IV,Male,Employee,Others
+27-10-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Others
+29-10-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Others
+29-10-16 00:00,Country_02,Local_08,Metals,IV,IV,Male,Employee,Pressed
+04-11-16 00:00,Country_01,Local_03,Mining,IV,V,Male,Employee,Others
+08-11-16 00:00,Country_01,Local_04,Mining,I,IV,Male,Employee,Others
+08-11-16 00:00,Country_02,Local_08,Metals,I,II,Male,Employee,Others
+11-11-16 00:00,Country_01,Local_06,Metals,IV,IV,Male,Employee,Others
+13-11-16 00:00,Country_01,Local_06,Metals,I,II,Male,Employee,Plates
+19-11-16 00:00,Country_01,Local_04,Mining,III,IV,Male,Third Party,Others
+21-11-16 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Others
+23-11-16 00:00,Country_01,Local_06,Metals,I,IV,Male,Employee,Others
+23-11-16 00:00,Country_01,Local_04,Mining,I,II,Male,Employee,Others
+25-11-16 00:00,Country_02,Local_07,Mining,I,II,Male,Employee,Others
+28-11-16 00:00,Country_01,Local_03,Mining,I,I,Male,Third Party,Others
+29-11-16 00:00,Country_02,Local_08,Metals,II,III,Male,Employee,Others
+30-11-16 00:00,Country_01,Local_03,Mining,I,II,Male,Third Party,Others
+01-12-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Others
+01-12-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Others
+01-12-16 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+08-12-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Suspended Loads
+08-12-16 00:00,Country_01,Local_01,Mining,I,III,Male,Third Party (Remote),Others
+09-12-16 00:00,Country_02,Local_02,Mining,II,III,Male,Third Party (Remote),Others
+10-12-16 00:00,Country_01,Local_04,Mining,I,II,Male,Third Party,Others
+12-12-16 00:00,Country_02,Local_08,Metals,I,II,Male,Employee,Others
+13-12-16 00:00,Country_02,Local_02,Mining,I,II,Male,Third Party (Remote),Others
+12-12-16 00:00,Country_01,Local_04,Mining,III,III,Male,Employee,Others
+12-12-16 00:00,Country_02,Local_05,Metals,I,II,Male,Third Party (Remote),Others
+13-12-16 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Others
+15-12-16 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Others
+15-12-16 00:00,Country_01,Local_03,Mining,III,IV,Male,Third Party,Others
+16-12-16 00:00,Country_02,Local_08,Metals,I,II,Female,Third Party,Others
+19-12-16 00:00,Country_01,Local_04,Mining,I,III,Male,Employee,Others
+23-12-16 00:00,Country_01,Local_04,Mining,II,IV,Male,Third Party,Others
+22-12-16 00:00,Country_02,Local_05,Metals,I,II,Male,Third Party,Others
+22-12-16 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+23-12-16 00:00,Country_01,Local_03,Mining,I,III,Male,Third Party,Others
+26-12-16 00:00,Country_01,Local_06,Metals,I,II,Male,Employee,Others
+28-12-16 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Others
+30-12-16 00:00,Country_01,Local_04,Mining,IV,V,Male,Third Party,Others
+31-12-16 00:00,Country_01,Local_04,Mining,III,IV,Male,Third Party,Others
+02-01-17 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party (Remote),Pressed
+05-01-17 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Projection
+05-01-17 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,Others
+06-01-17 00:00,Country_02,Local_08,Metals,I,I,Male,Employee,Pressed
+07-01-17 00:00,Country_01,Local_04,Mining,I,IV,Male,Employee,Others
+08-01-17 00:00,Country_01,Local_06,Metals,III,III,Male,Employee,Cut
+08-01-17 00:00,Country_02,Local_05,Metals,II,IV,Male,Employee,Projection/Burning
+09-01-17 00:00,Country_01,Local_01,Mining,I,III,Male,Third Party,Others
+09-01-17 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,Others
+10-01-17 00:00,Country_03,Local_10,Others,I,IV,Male,Third Party,Fall prevention
+12-01-17 00:00,Country_02,Local_08,Metals,I,II,Male,Third Party (Remote),Manual Tools
+14-01-17 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Projection
+17-01-17 00:00,Country_01,Local_03,Mining,I,III,Male,Employee,remains of choco
+17-01-17 00:00,Country_02,Local_08,Metals,I,IV,Male,Employee,Liquid Metal
+17-01-17 00:00,Country_02,Local_08,Metals,III,IV,Male,Employee,Others
+20-01-17 00:00,Country_01,Local_06,Metals,IV,IV,Male,Third Party (Remote),Fall prevention
+20-01-17 00:00,Country_01,Local_04,Mining,I,III,Male,Third Party,Manual Tools
+21-01-17 00:00,Country_02,Local_02,Mining,I,I,Male,Third Party (Remote),Others
+21-01-17 00:00,Country_02,Local_02,Mining,I,I,Male,Third Party (Remote),Others
+23-01-17 00:00,Country_01,Local_04,Mining,I,IV,Male,Third Party,remains of choco
+24-01-17 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party (Remote),Fall
+24-01-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+25-01-17 00:00,Country_01,Local_03,Mining,V,VI,Male,Third Party,remains of choco
+27-01-17 00:00,Country_01,Local_04,Mining,II,III,Male,Third Party,Others
+29-01-17 00:00,Country_01,Local_01,Mining,I,III,Male,Third Party,Vehicles and Mobile Equipment
+28-01-17 00:00,Country_01,Local_01,Mining,I,III,Male,Employee,Vehicles and Mobile Equipment
+31-01-17 00:00,Country_02,Local_08,Metals,I,III,Male,Employee,Others
+31-01-17 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Vehicles and Mobile Equipment
+01-02-17 00:00,Country_03,Local_10,Others,I,II,Male,Third Party,Projection/Choco
+04-02-17 00:00,Country_02,Local_02,Mining,I,III,Male,Employee,Manual Tools
+05-02-17 00:00,Country_03,Local_10,Others,I,II,Male,Employee,Others
+07-02-17 00:00,Country_01,Local_04,Mining,I,II,Male,Third Party,Others
+07-02-17 00:00,Country_01,Local_03,Mining,II,V,Male,Employee,remains of choco
+08-02-17 00:00,Country_01,Local_03,Mining,II,IV,Male,Third Party,Cut
+08-02-17 00:00,Country_02,Local_08,Metals,I,II,Female,Third Party,Others
+08-02-17 00:00,Country_02,Local_08,Metals,I,I,Male,Third Party (Remote),Pressed
+08-02-17 00:00,Country_01,Local_04,Mining,II,III,Male,Third Party,Cut
+08-02-17 00:00,Country_01,Local_06,Metals,I,III,Male,Employee,Machine Protection
+09-02-17 00:00,Country_01,Local_03,Mining,IV,V,Male,Third Party (Remote),Power lock
+08-02-17 00:00,Country_01,Local_06,Metals,I,I,Male,Third Party (Remote),Manual Tools
+13-02-17 00:00,Country_02,Local_08,Metals,II,III,Male,Employee,Pressed
+13-02-17 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Projection
+13-02-17 00:00,Country_02,Local_05,Metals,III,IV,Male,Employee,Burn
+14-02-17 00:00,Country_01,Local_03,Mining,IV,V,Male,Third Party,Pressed
+15-02-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+16-02-17 00:00,Country_01,Local_03,Mining,I,II,Female,Third Party (Remote),Fall
+17-02-17 00:00,Country_01,Local_04,Mining,I,III,Male,Third Party,Projection/Manual Tools
+17-02-17 00:00,Country_01,Local_01,Mining,I,III,Male,Employee,Chemical substances
+17-02-17 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Projection
+23-02-17 00:00,Country_01,Local_04,Mining,IV,IV,Male,Third Party,Vehicles and Mobile Equipment
+23-02-17 00:00,Country_02,Local_07,Mining,I,III,Male,Third Party (Remote),Venomous Animals
+25-02-17 00:00,Country_01,Local_01,Mining,IV,IV,Male,Third Party (Remote),Fall
+25-02-17 00:00,Country_01,Local_01,Mining,I,III,Male,Employee,Projection
+25-02-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+26-02-17 00:00,Country_01,Local_01,Mining,I,III,Male,Third Party,Fall
+26-02-17 00:00,Country_02,Local_07,Mining,I,IV,Male,Employee,Fall prevention
+27-02-17 00:00,Country_01,Local_03,Mining,II,IV,Male,Third Party,remains of choco
+27-02-17 00:00,Country_02,Local_02,Mining,III,IV,Male,Employee,Others
+01-03-17 00:00,Country_01,Local_06,Metals,I,I,Male,Third Party (Remote),Others
+02-03-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+02-03-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+02-03-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+04-03-17 00:00,Country_02,Local_02,Mining,I,V,Male,Employee,Vehicles and Mobile Equipment
+06-03-17 00:00,Country_01,Local_04,Mining,I,III,Male,Third Party (Remote),Fall
+08-03-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Others
+09-03-17 00:00,Country_01,Local_03,Mining,I,V,Male,Third Party,Vehicles and Mobile Equipment
+08-03-17 00:00,Country_01,Local_01,Mining,V,V,Male,Third Party,Vehicles and Mobile Equipment
+09-03-17 00:00,Country_02,Local_05,Metals,I,III,Male,Third Party,Machine Protection
+10-03-17 00:00,Country_01,Local_03,Mining,II,IV,Male,Third Party,Individual protection equipment
+15-03-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+15-03-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+15-03-17 00:00,Country_02,Local_08,Metals,II,IV,Female,Employee,Chemical substances
+18-03-17 00:00,Country_01,Local_03,Mining,V,V,Male,Third Party (Remote),Power lock
+22-03-17 00:00,Country_01,Local_06,Metals,V,V,Male,Third Party (Remote),Power lock
+25-03-17 00:00,Country_01,Local_03,Mining,II,V,Male,Third Party,Vehicles and Mobile Equipment
+25-03-17 00:00,Country_03,Local_10,Others,I,I,Male,Employee,Others
+31-03-17 00:00,Country_02,Local_05,Metals,I,IV,Male,Third Party,Fall prevention
+04-04-17 00:00,Country_02,Local_05,Metals,I,III,Male,Employee,Chemical substances
+05-04-17 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Suspended Loads
+07-04-17 00:00,Country_02,Local_02,Mining,I,III,Male,Third Party (Remote),Others
+04-04-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+06-04-17 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Others
+07-04-17 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Fall prevention
+10-04-17 00:00,Country_02,Local_02,Mining,I,II,Male,Third Party,Chemical substances
+08-04-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+11-04-17 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party (Remote),Electrical Shock
+11-04-17 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party (Remote),Electrical Shock
+11-04-17 00:00,Country_02,Local_07,Mining,I,II,Male,Third Party (Remote),Others
+13-04-17 00:00,Country_01,Local_01,Mining,I,II,Male,Employee,Others
+12-04-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+23-04-17 00:00,Country_01,Local_04,Mining,I,III,Male,Third Party,Others
+19-04-17 00:00,Country_03,Local_10,Others,I,IV,Male,Third Party,Others
+23-04-17 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Projection
+25-04-17 00:00,Country_03,Local_10,Others,I,I,Male,Third Party,Venomous Animals
+25-04-17 00:00,Country_02,Local_07,Mining,IV,V,Male,Employee,remains of choco
+25-04-17 00:00,Country_01,Local_01,Mining,IV,IV,Male,Employee,Pressed
+24-04-17 00:00,Country_01,Local_03,Mining,I,V,Male,Employee,Others
+28-04-17 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Others
+29-04-17 00:00,Country_02,Local_02,Mining,II,III,Male,Employee,Manual Tools
+30-04-17 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Others
+05-05-17 00:00,Country_02,Local_02,Mining,I,II,Male,Third Party (Remote),Others
+06-05-17 00:00,Country_01,Local_01,Mining,III,IV,Male,Third Party,Manual Tools
+06-05-17 00:00,Country_02,Local_07,Mining,IV,V,Male,Employee,Projection
+06-05-17 00:00,Country_02,Local_07,Mining,II,V,Male,Employee,Projection
+10-05-17 00:00,Country_01,Local_04,Mining,V,V,Male,Third Party,Fall
+16-05-17 00:00,Country_02,Local_05,Metals,I,III,Female,Third Party (Remote),Cut
+16-05-17 00:00,Country_01,Local_03,Mining,IV,IV,Male,Employee,Others
+16-05-17 00:00,Country_02,Local_12,Others,I,I,Male,Employee,Others
+17-05-17 00:00,Country_02,Local_07,Mining,I,I,Male,Employee,Cut
+18-05-17 00:00,Country_01,Local_06,Metals,IV,IV,Male,Third Party,Pressed
+19-05-17 00:00,Country_01,Local_06,Metals,I,II,Male,Employee,Projection
+23-05-17 00:00,Country_01,Local_04,Mining,I,IV,Male,Third Party,Projection of fragments
+23-05-17 00:00,Country_01,Local_04,Mining,I,IV,Male,Third Party,Projection of fragments
+23-05-17 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Others
+30-05-17 00:00,Country_02,Local_12,Others,I,II,Female,Employee,Others
+04-06-17 00:00,Country_02,Local_05,Metals,I,IV,Male,Employee,Others
+09-06-17 00:00,Country_01,Local_03,Mining,I,IV,Male,Third Party,Projection
+09-06-17 00:00,Country_01,Local_06,Metals,I,III,Male,Third Party,Fall
+11-06-17 00:00,Country_01,Local_04,Mining,I,II,Male,Third Party,Others
+11-06-17 00:00,Country_01,Local_04,Mining,I,II,Male,Employee,Pressed
+11-06-17 00:00,Country_01,Local_06,Metals,I,II,Male,Third Party,Cut
+11-06-17 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+14-06-17 00:00,Country_02,Local_02,Mining,III,IV,Male,Third Party (Remote),Pressed
+15-06-17 00:00,Country_01,Local_03,Mining,I,IV,Male,Employee,Projection
+17-06-17 00:00,Country_01,Local_03,Mining,II,IV,Male,Third Party,Projection
+18-06-17 00:00,Country_01,Local_04,Mining,IV,IV,Male,Third Party,remains of choco
+24-06-17 00:00,Country_01,Local_01,Mining,II,III,Male,Employee,Others
+20-06-17 00:00,Country_01,Local_01,Mining,I,IV,Male,Employee,Others
+20-06-17 00:00,Country_01,Local_01,Mining,I,IV,Male,Third Party,Others
+24-06-17 00:00,Country_01,Local_03,Mining,I,II,Female,Third Party,Cut
+23-06-17 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Others
+19-06-17 00:00,Country_03,Local_10,Others,III,IV,Male,Third Party,Others
+22-06-17 00:00,Country_03,Local_10,Others,I,IV,Male,Employee,Others
+22-06-17 00:00,Country_03,Local_10,Others,I,I,Male,Employee,Venomous Animals
+29-06-17 00:00,Country_02,Local_02,Mining,I,III,Male,Employee,Pressed
+04-07-17 00:00,Country_01,Local_04,Mining,I,III,Male,Third Party,Others
+04-07-17 00:00,Country_01,Local_03,Mining,I,II,Female,Employee,Others
+05-07-17 00:00,Country_02,Local_09,Metals,I,II,Male,Employee,Venomous Animals
+06-07-17 00:00,Country_02,Local_05,Metals,I,II,Male,Employee,Cut
+09-07-17 00:00,Country_01,Local_04,Mining,I,II,Female,Third Party,Fall prevention (same level)
